@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=VSCode
+Exec=/snap/bin/code
+Terminal=false
+StartupNotify=true
