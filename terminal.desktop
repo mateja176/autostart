@@ -1,5 +1,5 @@
 [Desktop Entry]
 Type=Application
 Name=Terminal
-Exec=/usr/bin/fish
-Terminal=true
+Exec=/usr/bin/gnome-terminal
+Terminal=false
