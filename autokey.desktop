@@ -1,7 +1,5 @@
 [Desktop Entry]
 Type=Application
 Name=Autokey
-# Exec=/usr/bin/autokey & disown & exit
-# Terminal=true
 Exec=/usr/bin/autokey
 Terminal=false
